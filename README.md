@@ -124,6 +124,3 @@ To evaluate the platform in 3 minutes:
    - Open **"My Domains"** in the top navigation to add another domain (e.g. `Agentic AI`) and switch between them with 1 click.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
