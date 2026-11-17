@@ -1,0 +1,60 @@
+# Documentation (Excluded per requirement)
+[Dd]ocs/
+**/[Dd]ocs/
+
+# Environments & Secrets
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python & AI Service
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+.venv/
+**/.venv/
+venv/
+**/venv/
+env/
+**/env/
+
+# Java, Scala & Gradle
+.gradle/
+**/.gradle/
+build/
+**/build/
+app/build/
+app/bin/
+.metals/
+**/.metals/
+.bsp/
+**/.bsp/
+*.class
+
+# IDE & OS
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
